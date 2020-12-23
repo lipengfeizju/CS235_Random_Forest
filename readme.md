@@ -4,6 +4,7 @@ Random Forest is an important ensemble learning method for classification andreg
 
 My code is evaluated on the dataset provided by [Tianchi Big Data Competition](https://tianchi.aliyun.com/competition/entrance/531830/information), the goal is to predict loan default based on applicant's information. 
 
+Keyword: Random Forest, Decision Tree
 
 ## 2. Quick Start
 First, download `csv` files from [Tianchi Big Data Competition](https://tianchi.aliyun.com/competition/entrance/531830/information), and put them to `data` folder.
